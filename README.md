@@ -2,13 +2,13 @@
 Determining whether or not a patient has pneumonia based on image classification
 
 
-# What is pneumonia? 
+# What is Pneumonia? 
 -An infection that inflames the air sacs in the lungs, and the fluid accumulation in the lungs can cause a lack of oxygen
 -The patient struggles to breathe and, without treatment, can succumb to asphyxiation
 
 Bacteria, viruses, fungi, and mold can cause pneumonia 
 
-![Organism](blob:https://imgur.com/ddefa5b1-351e-4eb5-931e-592c830366d0)
+![Organism](https://imgur.com/a/7JNPQxc)
 
 # The Dataset: 
 Mendeley Dataset with 256 pictures of chest x-rays  
@@ -21,9 +21,13 @@ I used binary classification to determine if a patient has pneumonia or not.
 -The diffuse X-ray scattering of the image shows up as fuzziness and the more fuzzy the picture is, that's how the algorithm determines if the patient has pneumonia 
 -Baseline accuracy score of 96-98%
 
+![Agar Art](https://imgur.com/a/iTv7naf)
+
 # Future Improvements: 
 Multi-class algorithm with 3 or 4 nodes, for viral, bacterial, or fungal pneumonia, along with normal lungs (differentiate between all 4 classes)
-Adapting the technology to help monitor pneumonia, not just diagnosing it   
+Adapting the technology to help monitor pneumonia, not just diagnosing it 
+
+![X-ray](https://i.imgur.com/RB34kxW.png) 
 
 # Future Improvements not related to data science: 
 X-rays are not a good tool to monitor the patient’s condition. (It’s too much radiation exposure for the patient.) 
