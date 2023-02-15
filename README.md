@@ -8,6 +8,7 @@ Determining whether or not a patient has pneumonia based on image classification
 
 Bacteria, viruses, fungi, and mold can cause pneumonia 
 
+Aspergillus: 
 ![Organism](https://imgur.com/a/7JNPQxc)
 
 # The Dataset: 
@@ -21,6 +22,7 @@ I used binary classification to determine if a patient has pneumonia or not.
 -The diffuse X-ray scattering of the image shows up as fuzziness and the more fuzzy the picture is, that's how the algorithm determines if the patient has pneumonia 
 -Baseline accuracy score of 96-98%
 
+Agar Art: 
 ![Agar Art](https://imgur.com/a/iTv7naf)
 
 # Future Improvements: 
