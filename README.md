@@ -9,7 +9,7 @@ Determining whether or not a patient has pneumonia based on image classification
 Bacteria, viruses, fungi, and mold can cause pneumonia 
 
 Aspergillus: 
-![Organism](https://imgur.com/a/7JNPQxc)
+![Organism](https://i.imgur.com/kagE7Fm.png)
 
 # The Dataset: 
 Mendeley Dataset with 256 pictures of chest x-rays  
