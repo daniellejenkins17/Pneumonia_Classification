@@ -1,6 +1,8 @@
 # Pneumonia-Classification
 Determining whether or not a patient has pneumonia based on image classification
 
+![Pneumo](https://i.imgur.com/epg3mFK.png)
+
 
 # What is Pneumonia? 
 -An infection that inflames the air sacs in the lungs, and the fluid accumulation in the lungs can cause a lack of oxygen
