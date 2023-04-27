@@ -9,6 +9,7 @@ Determining whether or not a patient has pneumonia based on image classification
 Bacteria, viruses, fungi, and mold can cause pneumonia 
 
 Aspergillus: 
+
 ![Organism](https://i.imgur.com/kagE7Fm.png)
 
 # The Dataset: 
@@ -23,7 +24,8 @@ I used binary classification to determine if a patient has pneumonia or not.
 -Baseline accuracy score of 96-98%
 
 Agar Art: 
-![Agar Art](https://imgur.com/a/iTv7naf)
+
+![Agar Art](https://i.imgur.com/bffZthA.png)
 
 # Future Improvements: 
 Multi-class algorithm with 3 or 4 nodes, for viral, bacterial, or fungal pneumonia, along with normal lungs (differentiate between all 4 classes)
